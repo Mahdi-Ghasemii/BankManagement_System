@@ -1,0 +1,67 @@
+﻿  Account.cpp
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(66,21): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(76,9): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(80,9): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Account.cpp(60,8): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Account.cpp(132,24): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+  Bank Manager.cpp
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(66,21): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(76,9): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(80,9): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Bank Manager.cpp(123,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Bank Manager.cpp(121,9): warning C4101: 'j': unreferenced local variable
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Bank Manager.cpp(202,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Bank Manager.cpp(310,20): warning C4018: '<': signed/unsigned mismatch
+  Banks.cpp
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(66,21): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(76,9): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(80,9): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Banks.cpp(142,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Banks.cpp(180,22): warning C4018: '<': signed/unsigned mismatch
+  Customers.cpp
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(66,21): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(76,9): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(80,9): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Customers.cpp(93,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Customers.cpp(146,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Customers.cpp(306,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Customers.cpp(308,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Customers.cpp(329,25): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Customers.cpp(422,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Customers.cpp(433,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Customers.cpp(483,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Customers.cpp(584,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Customers.cpp(586,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Customers.cpp(600,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Customers.cpp(603,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Customers.cpp(605,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Customers.cpp(729,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Customers.cpp(789,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Customers.cpp(812,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Customers.cpp(814,17): warning C4018: '<': signed/unsigned mismatch
+  Date.cpp
+  Loan.cpp
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(66,21): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(76,9): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(80,9): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  System_Manager.cpp
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(66,21): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(76,9): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(80,9): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\System_Manager.cpp(80,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\System_Manager.cpp(173,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\System_Manager.cpp(202,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\System_Manager.cpp(207,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\System_Manager.cpp(211,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\System_Manager.cpp(235,16): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(66,21): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(76,9): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\Loan.h(80,9): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\main.cpp(137,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\main.cpp(153,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\main.cpp(198,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\new Bank System\new Bank System\main.cpp(203,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  new Bank System.vcxproj -> C:\Users\Administrator\source\repos\new Bank System\Debug\new Bank System.exe
